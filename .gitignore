@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/ELibrary/.vs/ELibrary/DesignTimeBuild
+/ELibrary/.vs/ELibrary/FileContentIndex
+/ELibrary/.vs/ELibrary/v17
+/ELibrary/.vs/El_Library/DesignTimeBuild
+/ELibrary/.vs/El_Library/FileContentIndex
+/ELibrary/.vs/ProjectEvaluation
+/ELibrary/.vs
+/ELibrary/ELibrary/bin/Debug/net7.0
+/ELibrary/ELibrary/obj/Debug/net7.0
+/ELibrary/ELibrary/obj/Release/net7.0
+/ELibrary/ELibrary/obj
